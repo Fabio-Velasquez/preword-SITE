@@ -39,7 +39,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](<img src="https://imgur.com/a/9sMBHQu" width=400 height=300><br>
+![X]
+
+<img src="https://imgur.com/9sMBHQu" width=400 height=300><br>
 
 ## Reflection Questions
 
