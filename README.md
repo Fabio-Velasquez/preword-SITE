@@ -41,9 +41,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 ![X]
 
-<img src="https://imgur.com/a/9sMBHQu" width=400 height=300><br>
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/9sMBHQu"  ><a href="//imgur.com/a/9sMBHQu">Memry Game</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://imgur.com/a/9sMBHQu" width=400 height=300>
 
 ## Reflection Questions
 
