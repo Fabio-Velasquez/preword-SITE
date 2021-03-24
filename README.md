@@ -41,7 +41,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 ![X]
 
-<img src="https://i.imgur.com/FNY72YT.gif" width=200 height=100 />
+<img src="https://i.imgur.com/FNY72YT.gif" width=400 height=200 />
 
 ## Reflection Questions
 
