@@ -53,37 +53,35 @@ Here's a walkthrough of implemented user stories:
    ]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
+   
    [
-   My largest challenge was getting a hang of javascript, although I have some experience through self-learning.
-   It is not my main language I program with or one that was taught to me in University.
+   My largest challenge was getting use to javascript, although I have some experience through self-learning.
+   It is not the main language I program with or one that was taught to me in university.
    I read through w3schools, StackOverflow, and youtube to answer any questions or confusion I had with Javascript.
    To further specify one of the most time-consuming challenges was the mistake's optional feature.
    I had kept trying to use elaborate and complex ways of solving by using while loops or for loops but I did not have to write much code in the end.
    I just had to simply edit my existing code slightly to make it work.
    I had realized this when I traced through my code and went back through the guide to see how the event listeners worked.
    Once I reviewed it, it had made sense what I needed to edit and I was able to move on.
-   Another challenge I was able to overcome was sprucing up the buttons feature.
+      Another challenge I was able to overcome was sprucing up the buttons feature.
    I was not too sure what to exactly do. My interpretation of the feature was that when a button is pressed an image will appear.
-   I was more confused because it had said to use an image tag.
-   I was not too sure how to use to solve this problem.
-   I had thought of an alternative solution which was to use CSS and the background-image property to show when the button is pressed. ]
+   I was more confused because it had said to use an image tag it had slightly confused me and I was not too sure how the suggested solution would look like.
+   I had thought of an alternative solution,which was to use CSS pseudo-elements and the background-image property to show the image when the button is pressed. ]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)
+   
    [
-   The timer feature is interesting, although I was not able to implement the feature, I had not forgotten about it. It made me think how does a programmer runs multiple scripts together at the same time.
-   My mind is still stuck on a procedural (C)/ object oriented (Java/Python) thinking that one function leads to calling another function until the program ends. However, the timer function
-   had greatly confused me and made me question how am I even able to call a function to update the timer while running the memory game? I am also curious how does the web development professional process works?
-   For example, the web developers would need to wait on the UI/UX team to start on the design, would the frontend/backend would have to make some type of boilerplate design while the UI/UX team works on the interactivity/design.
-   How do they both even interact is it not important for the frontend people to know all the details of how the design should be and have some say if a design can even be possibly made with code.
+   The timer feature is interesting, although I was not able to implement the feature, I had not forgotten about it. It made me think how does a programmer runs multiple scripts together at the same time. My mind is still stuck on a procedural (C)/ object oriented (Java/Python) thinking that one function leads to calling another function until the program ends. However, the timer function had greatly confused me and made me question how am I even able to call a function to update the timer while running the memory game? 
+   I am also curious how does the web development process works? For example, the web developers would need to wait on the UI/UX team to start on the design, while the frontend/backend would have to make some type of boilerplate design while the UI/UX team works on the interactivity/design. How do they both even interact is it not important for the frontend people to know all the details of how the design should be, and have some say if a design can possibly be done? This is why fullstack interest me it offers a holistic understanding of both sides of the development process of making a website, although it is interesting. I personally read online forums and articles that it is best to specialize in front or backend because focusing on both will leave you lacking in particular areas in each job.
    ]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
-   [
+  
+  [
    I would try to create a personal leaderboard that would record the player's top 10 fastest wins. This would encourage the player to play again to beat their own record.
    Another feature would be to allow the player to manually adjust the number of boxes they want and how much time they want.
    I find this feature to be funny, It would be called a chaotic mode where a bunch of images flying around or random noises will occur to distract the player.
-   The final feature I had thought of is a theme music feature which allows the player to change the noises from a choice of wind, percussion, drum, and any other types of sounds.
-   I feel that these features would encourage the player to play more and be more interactive.
+   The final feature I had thought of is a theme music feature which allows the player to change the noises from a choice of wind, percussion, drum, and any other types of sounds. These features would encourage the player to play more because of how interactive the features are.
    ]
 
 ## License
